@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Koushik-336/Koushik-336/blob/main/NEW.mp4" width="400" height="400" alt="logo" />
+</p>
 <h1 align="center">Hi 👋, I'm Koushik Roy</h1>
 <h3 align="center">A passionate App Developer from Bangladesh</h3>
 
